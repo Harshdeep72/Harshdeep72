@@ -1,11 +1,5 @@
 # 🔒 Welcome to My Security Lab
 
-<p align="center">
-  <img src="assets/banner.png" alt="Harshdeep's Security Operations Center Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);" />
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Harshdeep</h1>
 <h3 align="center">Security Researcher • Penetration Tester • Network Analyst</h3>
 
@@ -88,6 +82,5 @@ I am a cybersecurity enthusiast dedicated to understanding vulnerabilities, anal
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshdeep72/Harshdeep72/main/assets/footer.png" onerror="this.style.display='none'" />
   <sub><i>Secured & Designed by Harshdeep</i></sub>
 </p>
