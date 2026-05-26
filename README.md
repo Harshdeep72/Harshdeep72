@@ -22,14 +22,6 @@
 
 ---
 
-## 🏆 Achievements & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshdeep72&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="100%" />
-</p>
-
----
-
 ## 🛡️ About the Lab
 
 I am a cybersecurity researcher dedicated to understanding threat vectors, analyzing network packet structures, and securing hardware/software integrations. I build lab simulations to understand and defend against emerging attack techniques.
@@ -65,22 +57,13 @@ harshdeep:
 ## 📊 Live Security Operations Metrics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harshdeep72&show_icons=true&theme=tokyonight&border_radius=10&title_color=B388FF&icon_color=a12dff" alt="Harshdeep's Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdeep72&layout=compact&theme=tokyonight&border_radius=10&title_color=B388FF" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshdeep72&theme=tokyonight&border_radius=10&stroke=a12dff&ring=B388FF" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshdeep72&theme=tokyonight" alt="Harshdeep's Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshdeep72&theme=tokyonight&stroke=a12dff&ring=B388FF" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
