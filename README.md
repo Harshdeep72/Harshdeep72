@@ -1,79 +1,83 @@
-# 🔒 Welcome to My Security Lab
-
-<h1 align="center">Hi 👋, I'm Harshdeep</h1>
-<h3 align="center">Security Researcher • Penetration Tester • Network Analyst</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b1b2f&height=220&section=header&text=HARSHDEEP72&fontSize=65&fontColor=a12dff&theme=dark" width="100%" style="border-radius: 12px;" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=500&lines=Analyzing+Network+Traffic;Demonstrating+SYN+Flood+Attacks;Securing+Embedded+%26+IoT+Systems;Packet+Analysis+%26+Log+Forensics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=500&lines=Analyzing+Network+Traffic;Demonstrating+SYN+Flood+Attacks;Securing+Embedded+%26+IoT+Systems;Packet+Analysis+%26+Log+Forensics" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Harshdeep72" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio Badge" />
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
 ---
 
-## 🛡️ About Me
+## 🏆 Achievements & Milestones
 
-I am a cybersecurity enthusiast dedicated to understanding vulnerabilities, analyzing network defenses, and securing modern architectures. I build hands-on simulation labs to analyze exploits and develop mitigation strategies.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshdeep72&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" width="100%" />
+</p>
 
-- 🔬 **Flagship Project**: Created **[SYN-Flood-Lab](https://github.com/Harshdeep72/SYN-Flood-Lab)**, a dedicated lab showcasing SYN flood DDoS attack replication, custom packet capture, forensic investigation, and defense posture design.
-- ⚡ **IoT & Embedded Security**: Researching firmware vulnerabilities, side-channel analysis, and secure code implementation on microcontrollers like the **[ESP32](https://github.com/Harshdeep72/esp32)**.
-- 🌐 **Network Forensics**: Conducting extensive traffic inspections and threat hunting using protocol analyzers to detect anomalous behaviors.
-- 🎓 **Continuous Learning**: Currently practicing offensive security strategies, privilege escalation paths, and malware analysis.
+---
+
+## 🛡️ About the Lab
+
+I am a cybersecurity researcher dedicated to understanding threat vectors, analyzing network packet structures, and securing hardware/software integrations. I build lab simulations to understand and defend against emerging attack techniques.
+
+```yaml
+harshdeep:
+  status: "🟢 Active Threat Hunting"
+  focus: "Network Forensics & Hardware Audits"
+  current_project: "SYN-Flood DDoS Lab Analysis"
+```
+
+* 🔬 **Flagship Project**: Created **[SYN-Flood-Lab](https://github.com/Harshdeep72/SYN-Flood-Lab)**, a lab demonstrating SYN flood DDoS attack replication, PCAP network packet capture, log forensics, and defense posture optimization.
+* ⚡ **IoT & Embedded Security**: Auditing firmware, side-channel vectors, and secure code practices on microcontrollers like the **[ESP32](https://github.com/Harshdeep72/esp32)**.
+* 🌐 **Network Forensics**: Conducting deep packet inspection and threat analysis using protocol analyzers to isolate anomalies.
 
 ---
 
 ## 🛠️ Security Toolkit & Tech Stack
 
 <div align="center">
-  
-  ### ⚔️ Operating Systems & Environments
-  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-  ### 🔍 Analysis & Testing Tools
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  ### 🐍 Scripting & Automation Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Casing & Infrastructure | Threat Analysis & Audits | Scripting & Tool Dev |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white" /> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> | |
 
 </div>
 
 ---
 
-## 📊 Live GitHub Security Metrics
+## 📊 Live Security Operations Metrics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harshdeep72&show_icons=true&theme=tokyonight&border_radius=10" alt="Harshdeep's Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Harshdeep72&show_icons=true&theme=tokyonight&border_radius=10&title_color=B388FF&icon_color=a12dff" alt="Harshdeep's Stats" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdeep72&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdeep72&layout=compact&theme=tokyonight&border_radius=10&title_color=B388FF" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshdeep72&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshdeep72&theme=tokyonight&border_radius=10&stroke=a12dff&ring=B388FF" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
